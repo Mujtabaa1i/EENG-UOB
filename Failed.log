@@ -1,0 +1,4 @@
+2025-03-17 02:44:29.964414|Mujtaba_test_20250317024409|MATHS 342 SECTION 2 SEM2 24-25.zip|30964cc0890d86c4fca9c859857d39d9|Item.upload() got an unexpected keyword argument 'remote_name'
+2025-03-17 02:55:29.390522|Mujtaba_test_20250317025511|MATHS342SECTION2SEM22425.zip|30964cc0890d86c4fca9c859857d39d9|[Errno 2] No such file or directory: 'MATHS342SECTION2SEM22425.zip'
+2025-03-17 03:02:22.040460|Mujtaba_test_20250317030201|MATHS342SECTION2SEM22425.zip|30964cc0890d86c4fca9c859857d39d9|No access_key or secret_key set! Have you run `ia configure`?
+2025-03-17 04:08:14.906925|Mujtaba_test_20250317040306|Practice Questions .pdf|402f2c53cf528d4528de170a4515bb0d| error uploading Practice Questions .pdf to Mujtaba_test_20250317040306, Please reduce your request rate. - Your upload of Mujtaba_test_20250317040306 from username unmujt2@gmail.com appears to be spam. If you believe this is a mistake, contact info@archive.org and include this entire message in your email.
